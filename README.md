@@ -19,7 +19,7 @@ The Saint James Team chatbot, or ChatSJT, was designed to answer the questions o
 >     The embeddings for each chunk are obtained from OpenAI and stored in a csv along with the original text
 > 
 >  **5) Retrieval**    
->     The bot is instructed to vectorize any question given to it and find the chunk with the the most similar embeddings
+>     The bot is instructed to vectorize any question asked of it and find the chunk with the the most similar embeddings
 > 
 >  **6) Context**  
->     The bot is then told to feed the question along with the text of the most relevant chunk into ChatGPT as context
+>     The bot then feeds the question, the text of the most relevant chunk and some other cues into ChatGPT for a response
