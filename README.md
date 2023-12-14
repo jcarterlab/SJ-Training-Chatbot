@@ -8,14 +8,14 @@ The Saint James Team training chatbot, or ChatSJT, was designed to answer the qu
 >  **2) Summarization**  
 >     Chuncks that were deemed too long were shortened to 200 words with an OpenAI call
 > 
->  **3) Edits**
+>  **3) Edits**  
 >     Iterative edits were made to a saved version of the text to improve the chatbot's performance
 > 
->  **4) Embeddings**
+>  **4) Embeddings**  
 >     The embeddings for each chunk were obtained from OpenAI and stored with the original text
 > 
->  **5) Retrieval**  
+>  **5) Retrieval**    
 >     the bot vectorizes a given question and identifies the chunk with the most similar embeddings
 > 
->  **6) Context**
+>  **6) Context**  
 >     the question and the selected chunk is then fed into ChatGPT as context through which to answer
