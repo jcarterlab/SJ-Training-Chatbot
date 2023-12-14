@@ -5,7 +5,7 @@ The Saint James Team training chatbot, or ChatSJT, was designed to answer the qu
 </br>
 
 >  **1) Splits**  
->     A basic algorithm was applied to find the most appropriate split points in the text (~100)
+>     A basic algorithm was applied to find the most appropriate split points in the manual (~100)
 > 
 >  **2) Summarization**  
 >     Any chunks deemed too long were shortened to 200 words with an OpenAI call to ChatGPT
