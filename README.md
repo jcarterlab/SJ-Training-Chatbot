@@ -11,7 +11,7 @@ The Saint James Team bot, or ChatSJT, was designed to answer the questions of ne
 >     Any chunks deemed too long were shortened to 200 words with an OpenAI call to ChatGPT
 > 
 >  **3) Edits**  
->     Iterative edits were made to the resulting text to improve the chatbot's performance
+>     Iterative edits were made to a saved version of the text to improve the bot's performance
 > 
 >  **4) Embeddings**  
 >     The embeddings for each chunk were obtained from OpenAI and stored along with the original text
