@@ -20,4 +20,4 @@ The Saint James Team bot, or ChatSJT, was designed to answer the questions of ne
 >     The bot is instructed to vectorize any question and search for the most similar chunk's embeddings
 > 
 >  **6) Context**  
->     It is then told to feed the question text and that of the most relevant chunk into ChatGPT as context
+>     The bot is then told to feed the question text along with that of the most relevant chunk into ChatGPT as context
