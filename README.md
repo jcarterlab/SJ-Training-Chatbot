@@ -2,7 +2,7 @@
 
 # Training Chatbot
 
-The Saint James Team chatbot, or ChatSJT, was designed to answer the questions of new staff by combining the general intelligence of ChatGPT with the hostel's 57 page operations manual. This helps facilitate the onboarding of new employees and volunteers in a hostel with a high staff turnover. The bot works through the following steps:
+The Saint James Backpackers chatbot, or ChatSJB, was designed to answer new staff questions by combining the intelligence of ChatGPT with the hostel's 57 page operations manual. This helps facilitate the onboarding of new employees and volunteers in a hostel with a high staff turnover. The bot works through the following steps:
 
 </br>
 
