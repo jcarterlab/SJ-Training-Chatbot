@@ -2,6 +2,8 @@
 
 The Saint James Team training chatbot, or ChatSJT, was designed to answer the questions of new staff by combining the general intelligence of ChatGPT with the hostel's 57 page operations manual. This helps to facilitate the onboarding of new employees and volunteers in a hostel with a particularly high staff turnover. This app works via the following steps:
 
+</br>
+
 >  **1) Splits**  
 >     A basic algorithm was applied to find the most appropriate split points in the text (~100)
 > 
