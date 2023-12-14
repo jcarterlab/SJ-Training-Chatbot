@@ -16,7 +16,7 @@ The Saint James Team chatbot, or ChatSJT, was designed to answer the questions o
 >     Iterative textual edits are made to a saved csv of the resulting chunks to improve the bot's answers
 > 
 >  **4) Embeddings**  
->     The embeddings, numbers describing the meaning of words in relation to others, for each chunk are obtained from OpenAI
+>     The embeddings (numbers describing the meaning of words in relation to others) for each chunk are obtained from OpenAI
 > 
 >  **5) Retrieval**    
 >     The bot is instructed to vectorize any question asked of it and find the chunk with the the most similar embeddings
