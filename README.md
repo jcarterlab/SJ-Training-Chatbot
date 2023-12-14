@@ -8,7 +8,7 @@ The Saint James Team bot, or ChatSJT, was designed to answer the questions of ne
 >     A basic algorithm was applied to find the most appropriate split points in the manual (~100)
 > 
 >  **2) Summarization**  
->     Any chunks deemed too long were shortened to 200 words with an OpenAI call to ChatGPT
+>     Any chunks deemed too long were shortened to 200 words with an API call to ChatGPT
 > 
 >  **3) Edits**  
 >     Iterative edits were made to a saved version of the text to improve the bot's performance
