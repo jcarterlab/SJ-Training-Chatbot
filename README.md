@@ -26,3 +26,7 @@ The Saint James Backpackers chatbot, or ChatSJB, was designed to answer new staf
 
 </br>
 </br>
+
+The notebook can be found [here.](Save-Embeddings.ipynb)
+
+<br/>
