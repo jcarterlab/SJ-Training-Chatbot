@@ -5,19 +5,19 @@ The Saint James Team bot, or ChatSJT, was designed to answer the questions of ne
 </br>
 
 >  **1) Splits**  
->     A basic algorithm was applied to find the most appropriate split points in the manual (~100)
+>     A basic algorithm is applied to find the most appropriate split points in the manual (~100)
 > 
 >  **2) Summarization**  
->     Any chunks deemed too long were shortened to 200 words with an API call to ChatGPT
+>     Any chunks deemed too long are shortened to 200 words with an API call to ChatGPT
 > 
 >  **3) Edits**  
->     Iterative edits were made to a saved version of the text to improve the bot's performance
+>     Iterative edits are made to a saved version of the text to improve the bot's performance
 > 
 >  **4) Embeddings**  
->     The embeddings for each chunk were obtained from OpenAI and stored along with the original text
+>     The embeddings for each chunk are obtained from OpenAI and stored along with the original text
 > 
 >  **5) Retrieval**    
->     The bot was instructed to vectorize any question and search for the most similar chunk's embeddings
+>     The bot is instructed to vectorize any question and search for the most similar chunk's embeddings
 > 
 >  **6) Context**  
->     It was then told to feed the question text and that of the most relevant chunk into ChatGPT as context
+>     It is then told to feed the question text and that of the most relevant chunk into ChatGPT as context
